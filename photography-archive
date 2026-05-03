@@ -23,18 +23,38 @@
   <section class="gallery">
 
     <img
-      src="../images/photography-archive/desert-road.jpg"
-      alt="Empty desert road at sunset"
+      src="../images/photography-archive/portrait-skye-1.jpg"
+      alt="Skye"
     >
 
     <img
-      src="../images/photography-archive/abandoned-store.jpg"
-      alt="Old abandoned storefront"
+      src="../images/photography-archive/portrait-skye-2.jpg"
+      alt="Skye"
     >
 
     <img
-      src="../images/photography-archive/evening-light.jpg"
-      alt="Soft evening light through trees"
+      src="../images/photography-archive/portrait-lucie-1.jpg"
+      alt="Lucie"
+    >
+
+    <img
+      src="../images/photography-archive/portrait-lucie-2.jpg"
+      alt="Lucie"
+    >
+
+    <img
+      src="../images/photography-archive/portrait-lucie-3.jpg"
+      alt="Lucie"
+    >
+
+    <img
+      src="../images/photography-archive/portrait-murdock-1.jpg"
+      alt="Lucie"
+    >
+
+    <img
+      src="../images/photography-archive/portrait-wedding-1.jpg"
+      alt="Lucie"
     >
 
   </section>
