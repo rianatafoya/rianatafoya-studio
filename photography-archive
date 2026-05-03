@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Photography Archive</title>
+
+  <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+  <a href="../index.html">← Back Home</a>
+
+  <header>
+    <h1>Photography Archive</h1>
+
+    <p>
+      A collection of photographs.
+    </p>
+  </header>
+
+  <section class="gallery">
+
+    <img
+      src="../images/photography-archive/desert-road.jpg"
+      alt="Empty desert road at sunset"
+    >
+
+    <img
+      src="../images/photography-archive/abandoned-store.jpg"
+      alt="Old abandoned storefront"
+    >
+
+    <img
+      src="../images/photography-archive/evening-light.jpg"
+      alt="Soft evening light through trees"
+    >
+
+  </section>
+
+</body>
+</html>
